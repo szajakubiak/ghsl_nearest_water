@@ -22,3 +22,6 @@ pip install -r requirements.txt
 ``` bash
 jupyter lab
 ```
+
+## Links
+[GHS built-up characteristics](https://human-settlement.emergency.copernicus.eu/download.php?ds=builtC)
