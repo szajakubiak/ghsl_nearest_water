@@ -1,0 +1,4 @@
+jupyterlab
+geopandas
+pandas
+rasterstats
