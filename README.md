@@ -1,4 +1,4 @@
-# ghsl_nearest_water
+# GHSL nearest water
 Search for nearest water pixel in Global Human Settlement Layer (GHSL) land use data
 
 ## Setup for Windows
