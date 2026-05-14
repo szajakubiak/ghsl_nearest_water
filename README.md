@@ -25,3 +25,6 @@ jupyter lab
 
 ## Links
 [GHS land fraction per pixel](https://human-settlement.emergency.copernicus.eu/ghs_land2022.php)
+
+## TODO
+* Convert land fraction dataset into water map
