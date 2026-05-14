@@ -1,5 +1,5 @@
 # GHSL nearest water
-Search for nearest water pixel in Global Human Settlement Layer (GHSL) land use data
+Search for nearest water pixel in Global Human Settlement Layer (GHSL) data
 
 ## Setup for Windows
 1. Install latest Python 3 version from the Microsoft Store.
