@@ -24,4 +24,4 @@ jupyter lab
 ```
 
 ## Links
-[GHS built-up characteristics](https://human-settlement.emergency.copernicus.eu/download.php?ds=builtC)
+[GHS land fraction per pixel](https://human-settlement.emergency.copernicus.eu/ghs_land2022.php)
