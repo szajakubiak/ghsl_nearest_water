@@ -28,3 +28,5 @@ jupyter lab
 
 ## TODO
 * Convert land fraction dataset into water map
+* Stich together GeoTIFF tiles
+* Use polygon to select area of interest
