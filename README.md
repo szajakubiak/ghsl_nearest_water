@@ -27,6 +27,5 @@ jupyter lab
 [GHS land fraction per pixel](https://human-settlement.emergency.copernicus.eu/ghs_land2022.php)
 
 ## TODO
-* Convert land fraction dataset into water map
 * Stich together GeoTIFF tiles
-* Use polygon to select area of interest
+* Write script to calculate distance to water pixel from defined location
