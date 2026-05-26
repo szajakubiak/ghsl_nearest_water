@@ -27,5 +27,4 @@ jupyter lab
 [GHS land fraction per pixel](https://human-settlement.emergency.copernicus.eu/ghs_land2022.php)
 
 ## TODO
-* Stich together GeoTIFF tiles
 * Write script to calculate distance to water pixel from defined location
