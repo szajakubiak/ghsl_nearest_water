@@ -1,24 +1,33 @@
 # GHSL nearest water
 Search for nearest water pixel in Global Human Settlement Layer (GHSL) data
 
-## Setup for Windows
-1. Install latest Python 3 version from the Microsoft Store.
-
-2. Open command line terminal window from Start menu. Create virtual environment in user's main directory and activate it:
+## Setup
+### Windows
+1. Create and activate virtual environment
 ``` bash
 cd %HOMEPATH%
 python -m venv ghslwatervenv
 %HOMEPATH%\ghslwatervenv\Scripts\activate
 ```
 
-3. Clone this repository and unpack it. In the terminal window change the active directory to the main directory of repository.
+### Linux
+1. Create and activate virtual environment
+``` bash
+cd ~
+python3 -m venv ghslwatervenv
+source ~/ghslwatervenv/bin/activate
+```
 
-4. Install requirements:
+### Common for Windows and Linux
+
+2. Clone repository and go the main directory in the terminal window.
+
+3. Install requirements
 ``` bash
 pip install -r requirements.txt
 ```
 
-5. Run Jupyter:
+4. Run Jupyter
 ``` bash
 jupyter lab
 ```
