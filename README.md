@@ -35,5 +35,9 @@ jupyter lab
 ## Links
 [GHS land fraction per pixel](https://human-settlement.emergency.copernicus.eu/ghs_land2022.php)
 
+[Using GeoPandas with Rasterio](https://geopandas.org/en/stable/gallery/geopandas_rasterio_sample.html)
+
+[geopandas.sjoin_nearest](https://geopandas.org/en/stable/docs/reference/api/geopandas.sjoin_nearest.html)
+
 ## TODO
 * Write script to calculate distance to water pixel from defined location
