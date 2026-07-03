@@ -2,3 +2,10 @@
 /.ipynb_checkpoints
 /aoi
 /output
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.qmd
+!test_points/*
